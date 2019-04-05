@@ -1,6 +1,6 @@
 {  
   "name": "My task list",  
-  "short_name": "My PWA",  
+  "short_name": Task",  
   "icons": [    
     {  
       "src": "/demo-my-pwa/icon_192x192.png",  
